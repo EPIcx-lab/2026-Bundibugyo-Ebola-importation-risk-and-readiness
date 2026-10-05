@@ -9,7 +9,7 @@ The repository root  contains the data underlying the main results presented in 
 
 
 The code in this repository is licensed under the MIT License.
-The data and derived results are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+The derived results are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg) ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)
